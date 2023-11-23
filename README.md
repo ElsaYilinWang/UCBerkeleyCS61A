@@ -1,4 +1,4 @@
-# UCBerkeleyCS61B
+# UCBerkeleyCS61A
 Self-teaching UC Berkeley CS 61B
 
 # Updated on Oct 18, 2023 #
